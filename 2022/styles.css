@@ -1,0 +1,15 @@
+body {
+    background-color:#11111b;
+    text-align: center;
+    color: #cdd6f4;
+}
+p {
+    color: #a6adc8;
+}
+a {
+    color: #74c7ec
+}
+div.quicklinks{
+    color: #a6adc8;
+    text-align: left;
+}
